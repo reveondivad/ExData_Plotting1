@@ -85,4 +85,8 @@ plot(dateTime,
      cex.main=0.9,cex.lab=0.75,cex.axis=0.75) # font sizes
 
 # shutdown
+<<<<<<< HEAD
 dev.off() # shut down
+=======
+dev.off() # shut down
+>>>>>>> origin/master
